@@ -10,4 +10,4 @@ echo "this was run automagically"
 
 
 
-ech "b"
+echo "b"

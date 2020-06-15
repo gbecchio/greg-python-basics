@@ -1,6 +1,6 @@
 venv/
 Pipfile.lock
-coffee/akademy/
+*/akademy/
 */__pycache__/
 *.pyc
 coffee/test/__pycache__/

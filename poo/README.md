@@ -6,7 +6,7 @@ $ /usr/bin/python3 -m pip install pipenv
 $ pipenv run python main.py
 
 $ pip install virtualenv
-$ virtualenv akademy
+$ /usr/bin/python3 -m venv akademy
 
 $ source akademy/bin/activate
 ```
